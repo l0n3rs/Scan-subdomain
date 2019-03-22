@@ -3,12 +3,12 @@ Scan-subdomain
 ##A tool about scan subdomain
 
 ##Screen
-![Screen](http://pan.ikbx.cn/?/images/2019/01/31/uX1BiLGYos/sc.png)
+![Screen](http://pan.0xss.cn/?/images/2019/03/22/I0aOXVh1KI/1.png)
 
 
 The result is Layer than it.
 
 
-![screen1](http://pan.ikbx.cn/?/images/2019/01/31/mrdOnfjXzL/SC1.png)
+![screen1](http://pan.0xss.cn/?/images/2019/03/22/5K76v6Bjwn/2.png)
 
 
